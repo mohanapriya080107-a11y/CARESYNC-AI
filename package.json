@@ -1,0 +1,11 @@
+{
+  "name": "caresync-ai-root",
+  "version": "1.0.0",
+  "description": "CARESYNC AI - Root workspace package runner",
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "preview": "npm run preview --prefix frontend"
+  },
+  "dependencies": {}
+}
